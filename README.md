@@ -1,1 +1,1 @@
-My solutions of the exercises in Book Functional Programming in Scala by Functional Programming in Scala, Michael Pilquist, Rúnar Bjarnason, and Paul Chiusano 
+My solutions of the exercises in the book Functional Programming in Scala by Michael Pilquist, Rúnar Bjarnason, and Paul Chiusano 
